@@ -8,7 +8,7 @@ Aspiring Technology Architect | 1337 School Student | committed to innovative di
 
 *   🌍  I'm based in Rabat, Morocco
 *   🔭 I’m currently studying at [1337](https://1337.ma/en/) ([42 Network](https://42.fr/en/network-42/))
-*   🧠  I'm learning web development
+*   🧠  I'm currently learning web development
 *   📫 How to reach me: jlemmustapha@gmail.com
 
 ### Skills 
