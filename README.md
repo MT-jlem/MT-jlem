@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineering Student
 -----------------------------
 
-Aspiring Technology Architect | 1337 School Student | committed to innovative digital solutions and continuous learning.
+Aspiring Software Engineer | 1337 School Student | committed to innovative digital solutions and continuous learning.
 
 *   🌍  I'm based in Rabat, Morocco
 *   🔭 I’m currently studying at [1337](https://1337.ma/en/) ([42 Network](https://42.fr/en/network-42/))
