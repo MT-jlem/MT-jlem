@@ -5,7 +5,7 @@ Software Engineer
 -----------------------------
 
 *   Aspiring Software Engineer based in Seattle, WA.
-*   Graduate of 1337 School – part of the 42 Network.
+*   Graduate of [1337](https://1337.ma/en/) – part of the [42 Network](https://42.fr/en/network-42/).
 *   Passionate about problem-solving, and building things.
 *   📫 Reach me at: jlemmustapha@gmail.com
 
