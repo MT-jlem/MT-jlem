@@ -1,15 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mustapha Jlem
 =====================================================================================================================================
 
-Software Engineering Student
+Software Engineer
 -----------------------------
 
-Aspiring Software Engineer | 1337 School Student | committed to innovative digital solutions and continuous learning.
-
-*   🌍  I'm based in Rabat, Morocco
-*   🔭 I’m currently studying at [1337](https://1337.ma/en/) ([42 Network](https://42.fr/en/network-42/))
-*   🧠  I'm currently learning web development
-*   📫 How to reach me: jlemmustapha@gmail.com
+*   Aspiring Software Engineer based in Seattle, WA.
+*   Graduate of 1337 School – part of the 42 Network.
+*   Passionate about problem-solving, and building things.
+*   📫 Reach me at: jlemmustapha@gmail.com
 
 ### Skills
 
